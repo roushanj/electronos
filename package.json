@@ -1,0 +1,22 @@
+{
+    "name": "electronos",
+    "version": "1.0.0",
+    "description": "A test desktop app",
+    "main": "server.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/roushanj/electronos.git"
+    },
+    "author": "oliver",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/roushanj/electronos/issues"
+    },
+    "homepage": "https://github.com/roushanj/electronos#readme",
+    "dependencies": {
+        "electron": "^1.7.6"
+    }
+}
